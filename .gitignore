@@ -1,0 +1,12 @@
+Debug/*
+Release/*
+.vs/*
+*.obj
+*.pdb
+*.exe
+*.dll
+*.lib
+*.log
+*.tlog
+*.idb
+
